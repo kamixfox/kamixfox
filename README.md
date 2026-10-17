@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Kamix Fox's GitHub stats](https://github-stats-extended.vercel.app/api?username=kamixfox)](https://github.com/kamixfox)
+[![Kane Boswell's GitHub stats](https://github-stats-extended.vercel.app/api?username=kmboswell)](https://github.com/kmboswell)
 
 [TwextHub](https://twexts.sdisk.us) · [My Discord server](https://discord.gg/zM3agtsq54)
 
@@ -8,7 +8,7 @@
 
 # 👋 Hey There!
 
-I'm Kamix Fox (he/him), a backend programmer, designer, and moderator.
+I'm Kane Boswell (he/him), a backend programmer, designer, and moderator.
 
 - 💡 Into software development, cloud computing, containerization, and building thriving communities
 - 🛠️ I work on random projects in my pockets of free time, mostly in JS or PenguinMod
@@ -19,4 +19,4 @@ I'm Kamix Fox (he/him), a backend programmer, designer, and moderator.
 
 ## 📧 Contact Me
 
-The best way to reach me is to [join my Discord server](https://discord.gg/zM3agtsq54) and DM me there. I hardly check email unless it's a security concern.
+The best way to reach me is to email me at <kaneboswell@sdisk.us>.
